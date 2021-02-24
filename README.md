@@ -1,3 +1,3 @@
 # Guessing Game
 
-Guessing Game created with expo on React Native to explore features of React Native.
+Guessing Game created with expo on React Native to explore basic features of React Native.
